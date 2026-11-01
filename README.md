@@ -29,3 +29,4 @@ Daily TIL: learning networking, Linux, cloud and C++/C# with Claude as a study p
 |---|---|
 | 2026-10-30 | [리눅스 명령어](linux/2026-10-30-commands.md), [DNS·DHCP·포트](network/2026-10-30-dns-dhcp-ports.md), [윈도우 서버 IP·DHCP](windows-server/2026-10-30-ip-dhcp.md) |
 | 2026-10-31 | [CCNA 덤프·오픽](ccna/2026-10-31-daily-dump.md) |
+| 2026-11-01 | [윈도우 서버 필기·포트 복습](windows-server/2026-11-01-nos-quiz.md) |
