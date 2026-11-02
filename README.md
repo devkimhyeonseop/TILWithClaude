@@ -31,3 +31,4 @@ Daily TIL: learning networking, Linux, cloud and C++/C# with Claude as a study p
 | 2026-10-31 | [CCNA 덤프·오픽](ccna/2026-10-31-daily-dump.md) |
 | 2026-11-01 | [윈도우 서버 필기·포트 복습](windows-server/2026-11-01-nos-quiz.md) |
 | 2026-11-01 | [윈도우 서버 실기 2/3: DNS·IIS](windows-server/2026-11-01-dns-iis-practice.md) |
+| 2026-11-02 | [복습: 포트·TCP 3단계·PTR·IIS 경로](network/2026-11-02-review-ports.md) |
