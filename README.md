@@ -36,3 +36,4 @@ Daily TIL: learning networking, Linux, cloud and C++/C# with Claude as a study p
 | 2026-11-02 | [관리사 필기 리눅스](linux/2026-11-02-nos-linux-quiz.md) |
 | 2026-11-03 | [CCNA 덤프·오픽](ccna/2026-11-03-daily-dump.md) |
 | 2026-11-03 | [관리사 필기: 계정·서비스](linux/2026-11-03-nos-accounts-services.md), [FA 용어: SECS/GEM·HSMS](fa/2026-11-03-secs-gem-hsms.md) |
+| 2026-11-04 | [복습: 오답 재확인·CCNA·오픽](linux/2026-11-04-review-quiz.md) |
