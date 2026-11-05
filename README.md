@@ -38,3 +38,4 @@ Daily TIL: learning networking, Linux, cloud and C++/C# with Claude as a study p
 | 2026-11-03 | [관리사 필기: 계정·서비스](linux/2026-11-03-nos-accounts-services.md), [FA 용어: SECS/GEM·HSMS](fa/2026-11-03-secs-gem-hsms.md) |
 | 2026-11-04 | [복습: 오답 재확인·CCNA·오픽](linux/2026-11-04-review-quiz.md) |
 | 2026-11-04 | [윈도우 서버 실기 3/3: 계정·공유·권한](windows-server/2026-11-04-accounts-share-permissions.md) |
+| 2026-11-05 | [허브·스위치·라우터·NAT](network/2026-11-05-hub-switch-router.md), [복습: df·PTR·fstab·systemctl](linux/2026-11-05-review-quiz.md), [FA 심화 1: 디스플레이 장비](fa/2026-11-05-display-equipment.md) |
