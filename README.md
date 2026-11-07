@@ -40,3 +40,4 @@ Daily TIL: learning networking, Linux, cloud and C++/C# with Claude as a study p
 | 2026-11-04 | [윈도우 서버 실기 3/3: 계정·공유·권한](windows-server/2026-11-04-accounts-share-permissions.md) |
 | 2026-11-05 | [허브·스위치·라우터·NAT](network/2026-11-05-hub-switch-router.md), [복습: df·PTR·fstab·systemctl](linux/2026-11-05-review-quiz.md), [FA 심화 1: 디스플레이 장비](fa/2026-11-05-display-equipment.md) |
 | 2026-11-06 | [허브·스위치·라우터 2/2](network/2026-11-06-domains-mac-routing.md), [복습: df·fstab](linux/2026-11-06-review-fstab-df.md), [FA 심화 2](fa/2026-11-06-sw-layers-gem-data.md), [실기 모의](windows-server/2026-11-06-practical-mock.md) |
+| 2026-11-07 | [실기: NAT 포트 포워딩](windows-server/2026-11-07-nat-port-forwarding.md), [복습: 스위치 플러딩·FA 용어](network/2026-11-07-switch-flooding-review.md) |
