@@ -27,19 +27,25 @@ Daily TIL: learning networking, Linux, cloud and C++/C# with Claude as a study p
 각 글은 **배운 것 / 틀린 것 / 다시 볼 것 / AI에게 확인한 것** 네 칸으로 씁니다.
 
 ## 기록
+
+### 최근 5일
 | 날짜 | 주제 |
 |---|---|
-| 2026-10-30 | [리눅스 명령어](linux/2026-10-30-commands.md), [DNS·DHCP·포트](network/2026-10-30-dns-dhcp-ports.md), [윈도우 서버 IP·DHCP](windows-server/2026-10-30-ip-dhcp.md) |
-| 2026-10-31 | [CCNA 덤프·오픽](ccna/2026-10-31-daily-dump.md) |
-| 2026-11-01 | [윈도우 서버 필기·포트 복습](windows-server/2026-11-01-nos-quiz.md) |
-| 2026-11-01 | [윈도우 서버 실기 2/3: DNS·IIS](windows-server/2026-11-01-dns-iis-practice.md) |
-| 2026-11-02 | [복습: 포트·TCP 3단계·PTR·IIS 경로](network/2026-11-02-review-ports.md) |
-| 2026-11-02 | [관리사 필기 리눅스](linux/2026-11-02-nos-linux-quiz.md) |
-| 2026-11-03 | [CCNA 덤프·오픽](ccna/2026-11-03-daily-dump.md) |
-| 2026-11-03 | [관리사 필기: 계정·서비스](linux/2026-11-03-nos-accounts-services.md), [FA 용어: SECS/GEM·HSMS](fa/2026-11-03-secs-gem-hsms.md) |
-| 2026-11-04 | [복습: 오답 재확인·CCNA·오픽](linux/2026-11-04-review-quiz.md) |
-| 2026-11-04 | [윈도우 서버 실기 3/3: 계정·공유·권한](windows-server/2026-11-04-accounts-share-permissions.md) |
-| 2026-11-05 | [허브·스위치·라우터·NAT](network/2026-11-05-hub-switch-router.md), [복습: df·PTR·fstab·systemctl](linux/2026-11-05-review-quiz.md), [FA 심화 1: 디스플레이 장비](fa/2026-11-05-display-equipment.md) |
-| 2026-11-06 | [허브·스위치·라우터 2/2](network/2026-11-06-domains-mac-routing.md), [복습: df·fstab](linux/2026-11-06-review-fstab-df.md), [FA 심화 2](fa/2026-11-06-sw-layers-gem-data.md), [실기 모의](windows-server/2026-11-06-practical-mock.md) |
-| 2026-11-07 | [실기: NAT 포트 포워딩](windows-server/2026-11-07-nat-port-forwarding.md), [복습: 스위치 플러딩·FA 용어](network/2026-11-07-switch-flooding-review.md) |
 | 2026-11-08 | [정보보호개론: 보안·암호·방화벽](security/2026-11-08-info-security-basics.md), [복습: 약점 4줄](network/2026-11-08-weak-point-review.md) |
+| 2026-11-07 | [실기: NAT 포트 포워딩](windows-server/2026-11-07-nat-port-forwarding.md), [복습: 스위치 플러딩·FA 용어](network/2026-11-07-switch-flooding-review.md) |
+| 2026-11-06 | [허브·스위치·라우터 2/2](network/2026-11-06-domains-mac-routing.md), [복습: df·fstab](linux/2026-11-06-review-fstab-df.md), [FA 심화 2](fa/2026-11-06-sw-layers-gem-data.md), [실기 모의](windows-server/2026-11-06-practical-mock.md) |
+| 2026-11-05 | [허브·스위치·라우터·NAT](network/2026-11-05-hub-switch-router.md), [복습: df·PTR·fstab·systemctl](linux/2026-11-05-review-quiz.md), [FA 심화 1: 디스플레이 장비](fa/2026-11-05-display-equipment.md) |
+| 2026-11-04 | [복습: 오답 재확인·CCNA·오픽](linux/2026-11-04-review-quiz.md), [윈도우 서버 실기 3/3: 계정·공유·권한](windows-server/2026-11-04-accounts-share-permissions.md) |
+
+<details>
+<summary>이전 기록 보기 (클릭)</summary>
+
+| 날짜 | 주제 |
+|---|---|
+| 2026-11-03 | [CCNA 덤프·오픽](ccna/2026-11-03-daily-dump.md), [관리사 필기: 계정·서비스](linux/2026-11-03-nos-accounts-services.md), [FA 용어: SECS/GEM·HSMS](fa/2026-11-03-secs-gem-hsms.md) |
+| 2026-11-02 | [복습: 포트·TCP 3단계·PTR·IIS 경로](network/2026-11-02-review-ports.md), [관리사 필기 리눅스](linux/2026-11-02-nos-linux-quiz.md) |
+| 2026-11-01 | [윈도우 서버 필기·포트 복습](windows-server/2026-11-01-nos-quiz.md), [윈도우 서버 실기 2/3: DNS·IIS](windows-server/2026-11-01-dns-iis-practice.md) |
+| 2026-10-31 | [CCNA 덤프·오픽](ccna/2026-10-31-daily-dump.md) |
+| 2026-10-30 | [리눅스 명령어](linux/2026-10-30-commands.md), [DNS·DHCP·포트](network/2026-10-30-dns-dhcp-ports.md), [윈도우 서버 IP·DHCP](windows-server/2026-10-30-ip-dhcp.md) |
+
+</details>
