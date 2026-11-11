@@ -31,17 +31,18 @@ Daily TIL: learning networking, Linux, cloud and C++/C# with Claude as a study p
 ### 최근 5일
 | 날짜 | 주제 |
 |---|---|
+| 2026-11-11 | [필기 CBT 오답 163문제 정리](network/2026-11-11-cbt-wrong-answers.md), [리눅스·윈도우 명령어 오답](linux/2026-11-11-cbt-commands-wrong.md), [실기 모의: IIS·DNS·FTP·계정·서비스](windows-server/2026-11-11-practical-mock-iis-dns-ftp.md) |
 | 2026-11-10 | [필기 CBT 오답 23문제 정리](network/2026-11-10-cbt-wrong-answers.md) |
 | 2026-11-09 | [필기 기출 유형 풀이 1/3](network/2026-11-09-exam-practice-1.md), [포폴 메모: 장비↔PC 통신](fa/2026-11-09-equipment-pc-communication.md) |
 | 2026-11-08 | [정보보호개론: 보안·암호·방화벽](security/2026-11-08-info-security-basics.md), [복습: 약점 4줄](network/2026-11-08-weak-point-review.md) |
 | 2026-11-07 | [실기: NAT 포트 포워딩](windows-server/2026-11-07-nat-port-forwarding.md), [복습: 스위치 플러딩·FA 용어](network/2026-11-07-switch-flooding-review.md) |
-| 2026-11-06 | [허브·스위치·라우터 2/2](network/2026-11-06-domains-mac-routing.md), [복습: df·fstab](linux/2026-11-06-review-fstab-df.md), [FA 심화 2](fa/2026-11-06-sw-layers-gem-data.md), [실기 모의](windows-server/2026-11-06-practical-mock.md) |
 
 <details>
 <summary>이전 기록 보기 (클릭)</summary>
 
 | 날짜 | 주제 |
 |---|---|
+| 2026-11-06 | [허브·스위치·라우터 2/2](network/2026-11-06-domains-mac-routing.md), [복습: df·fstab](linux/2026-11-06-review-fstab-df.md), [FA 심화 2](fa/2026-11-06-sw-layers-gem-data.md), [실기 모의](windows-server/2026-11-06-practical-mock.md) |
 | 2026-11-05 | [허브·스위치·라우터·NAT](network/2026-11-05-hub-switch-router.md), [복습: df·PTR·fstab·systemctl](linux/2026-11-05-review-quiz.md), [FA 심화 1: 디스플레이 장비](fa/2026-11-05-display-equipment.md) |
 | 2026-11-04 | [복습: 오답 재확인·CCNA·오픽](linux/2026-11-04-review-quiz.md), [윈도우 서버 실기 3/3: 계정·공유·권한](windows-server/2026-11-04-accounts-share-permissions.md) |
 | 2026-11-03 | [CCNA 덤프·오픽](ccna/2026-11-03-daily-dump.md), [관리사 필기: 계정·서비스](linux/2026-11-03-nos-accounts-services.md), [FA 용어: SECS/GEM·HSMS](fa/2026-11-03-secs-gem-hsms.md) |
