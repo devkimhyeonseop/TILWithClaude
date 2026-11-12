@@ -12,10 +12,16 @@
 - AD 계정: dsadd(추가)·dsmod(수정)·dsrm(삭제). `net user`는 로컬 계정 명령
 - 실행 명령어: `compmgmt.msc`, `devmgmt.msc`, `gpedit.msc`는 .msc 필요. perfmon은 exe라 그대로 실행
 - Resource Monitor는 resmon. Hyper-V는 실행 중에도 가상 디스크 이동 가능, 가상화할수록 자원 사용률은 높아짐
-- IIS 로그는 저장 위치와 형식 변경 가능. DNS TTL은 캐싱 주기
+- IIS 로그는 저장 위치와 형식 변경 가능. DNS TTL은 캐싱 주기이고 TTL이 길면 DNS 부하가 줄어듦
+- 열린 포트 확인은 `netstat`(`-antp`), 로그인 실패는 `lastb`, IIS 관리자는 `inetmgr`, 성능 모니터는 `perfmon`
+- 프로세스: `top`은 실시간 전체 상태, `ps -ef`는 PID·PPID 확인, 데몬 확인은 `ps`, `nice`는 우선순위, `pstree`는 트리
+- 종료는 `shutdown -h`·`poweroff`·`halt`(init 6은 재부팅). runlevel 3 텍스트, 5 GUI
+- vi 치환 `:10,20s/old/new/g`, 새 디스크는 fdisk → mkfs → mount, 메모리가 가득 차면 SWAP, Telnet 차단은 `iptables -A INPUT -p tcp --dport 23 -j DROP`
+- PowerShell은 DOS 명령도 대부분 사용 가능하고 대소문자를 구분하지 않음. Users 그룹에는 시스템 변경 권한이 없음
 
 ## 틀린 것
 - `chage -W`를 3번째로 틀림. IIS 로그, Hyper-V, netstat 옵션도 반복
+- 2024.11·2024.08·2024.05 세트에서도 crontab·netstat·lastb·`su`/`sudo`를 다시 틀림
 - 옵션 짝 혼동: ping -t/-n, netstat -b/-p, chmod +/=, `ls > 파일`과 `>>`
 - 부정형: DNS TTL·compmgmt·net user 문제
 
