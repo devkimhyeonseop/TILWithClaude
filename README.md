@@ -31,7 +31,7 @@ Daily TIL: learning networking, Linux, cloud and C++/C# with Claude as a study p
 ### 최근 5일
 | 날짜 | 주제 |
 |---|---|
-| 2026-11-12 | [필기 CBT 3세트 오답 43문제](network/2026-11-12-cbt-wrong-answers.md), [리눅스·윈도우 명령어 오답](linux/2026-11-12-cbt-commands-wrong.md) |
+| 2026-11-12 | [필기 CBT 8세트 오답 102문제](network/2026-11-12-cbt-wrong-answers.md), [리눅스·윈도우 명령어 오답](linux/2026-11-12-cbt-commands-wrong.md) |
 | 2026-11-11 | [필기 CBT 오답 163문제 정리](network/2026-11-11-cbt-wrong-answers.md), [리눅스·윈도우 명령어 오답](linux/2026-11-11-cbt-commands-wrong.md), [실기 모의: IIS·DNS·FTP·계정·서비스](windows-server/2026-11-11-practical-mock-iis-dns-ftp.md) |
 | 2026-11-10 | [필기 CBT 오답 23문제 정리](network/2026-11-10-cbt-wrong-answers.md) |
 | 2026-11-09 | [필기 기출 유형 풀이 1/3](network/2026-11-09-exam-practice-1.md), [포폴 메모: 장비↔PC 통신](fa/2026-11-09-equipment-pc-communication.md) |
