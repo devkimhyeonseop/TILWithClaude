@@ -31,17 +31,18 @@ Daily TIL: learning networking, Linux, cloud and C++/C# with Claude as a study p
 ### 최근 5일
 | 날짜 | 주제 |
 |---|---|
+| 2026-11-21 | [오픽, CCNA 덤프 10문제(9개 오답), 복습 5문제(4개 오답)](ccna/2026-11-21-ccna-wrong-concepts.md) |
 | 2026-11-20 | [오픽·CCNA 덤프 10문제(9개 오답) 개념 정리](ccna/2026-11-20-opic-daily.md) |
 | 2026-11-19 | [오픽, C++ 변수·자료형·입출력·연산자(Ch1~4)](cpp/2026-11-19-cpp-basics-ch1to4.md) |
 | 2026-11-18 | [서브넷 호스트기준 연습, 동적 라우팅·AD 기초, CCNA 오답 7개](network/2026-11-18-subnet-host-practice-ccna.md) |
 | 2026-11-17 | [CCNA 반복 오답 4개+신규 오답 2개](ccna/2026-11-17-ccna-wrong-concepts.md) |
-| 2026-11-16 | [비번1일차: CCNA 기초·C++·CCNA 예약·오픽·CCNA 덤프](ccna/2026-11-16-day-summary.md) |
 
 <details>
 <summary>이전 기록 보기 (클릭)</summary>
 
 | 날짜 | 주제 |
 |---|---|
+| 2026-11-16 | [비번1일차: CCNA 기초·C++·CCNA 예약·오픽·CCNA 덤프](ccna/2026-11-16-day-summary.md) |
 | 2026-11-15 | [오픽 데일리 3문제](ccna/2026-11-15-opic-daily.md) |
 | 2026-11-14 | [CCNA 시작: 서브넷·AD·VLAN 오답 개념 정리](ccna/2026-11-14-ccna-wrong-concepts.md) |
 | 2026-11-13 | [서브넷 빌린 비트·케이블·오답 퀴즈](network/2026-11-13-subnet-cable-review.md), [실기: 라우터(Cisco) 명령어 연습](windows-server/2026-11-13-router-cli-practice.md) |
