@@ -31,7 +31,7 @@ Daily TIL: learning networking, Linux, cloud and C++/C# with Claude as a study p
 ### 최근 5일
 | 날짜 | 주제 |
 |---|---|
-| 2026-11-22 | [오픽, CCNA 덤프 10문제(7개 오답), C++ 조건문·반복문(Ch5~6)](cpp/2026-11-22-cpp-conditionals-loops.md) |
+| 2026-11-22 | [오픽, CCNA 덤프 오답, C++ 조건문·반복문(Ch5~6), 복습](cpp/2026-11-22-cpp-conditionals-loops.md) |
 | 2026-11-21 | [오픽, CCNA 덤프·복습 오답 정리, VLSM 서브넷팅 완료](ccna/2026-11-21-ccna-wrong-concepts.md) |
 | 2026-11-20 | [오픽·CCNA 덤프 10문제(9개 오답) 개념 정리](ccna/2026-11-20-opic-daily.md) |
 | 2026-11-19 | [오픽, C++ 변수·자료형·입출력·연산자(Ch1~4)](cpp/2026-11-19-cpp-basics-ch1to4.md) |
