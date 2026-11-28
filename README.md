@@ -31,17 +31,18 @@ Daily TIL: learning networking, Linux, cloud and C++/C# with Claude as a study p
 ### 최근 5일
 | 날짜 | 주제 |
 |---|---|
+| 2026-11-28 | [CCNA 개념(STP), CCNA 덤프 오답, C++ 벡터(Ch8), 복습](cpp/2026-11-28-stp-vector-wrong-concepts.md) |
 | 2026-11-27 | [오픽, CCNA 덤프 오답](ccna/2026-11-27-ccna-dump-wrong-concepts.md) |
 | 2026-11-26 | [CCNA 개념(VLAN 호핑), CCNA 덤프 오답, 복습](ccna/2026-11-26-vlan-hopping-wrong-concepts.md) |
 | 2026-11-25 | [CCNA 개념(트렁킹), CCNA 덤프 오답, 복습](ccna/2026-11-25-trunking-wrong-concepts.md) |
 | 2026-11-24 | [CCNA 개념 커리큘럼 시작(VLAN 기초), CCNA 덤프 오답](ccna/2026-11-24-vlan-basics-wrong-concepts.md) |
-| 2026-11-23 | [오픽, CCNA 덤프 오답, C++ 함수(Ch7), 복습](ccna/2026-11-23-ccna-wrong-concepts.md) |
 
 <details>
 <summary>이전 기록 보기 (클릭)</summary>
 
 | 날짜 | 주제 |
 |---|---|
+| 2026-11-23 | [오픽, CCNA 덤프 오답, C++ 함수(Ch7), 복습](ccna/2026-11-23-ccna-wrong-concepts.md) |
 | 2026-11-22 | [오픽, CCNA 덤프 오답, C++ 조건문·반복문(Ch5~6), 복습](cpp/2026-11-22-cpp-conditionals-loops.md) |
 | 2026-11-21 | [오픽, CCNA 덤프·복습 오답 정리, VLSM 서브넷팅 완료](ccna/2026-11-21-ccna-wrong-concepts.md) |
 | 2026-11-20 | [오픽·CCNA 덤프 10문제(9개 오답) 개념 정리](ccna/2026-11-20-opic-daily.md) |
